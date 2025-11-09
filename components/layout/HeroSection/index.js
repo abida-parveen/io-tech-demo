@@ -6,7 +6,7 @@ import slideData from "../../../helper/slideData";
 
 const HeroSection = () => {
   return (
-    <div className="h-screen">
+    <div className="h-[90vh] lg:h-screen">
       <Swiper
         direction={"vertical"}
         pagination={{
