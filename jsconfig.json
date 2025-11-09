@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@/layout/*": ["./components/layout/*"],
+      "@/state-management/*": ["./state-management/*"]
     }
   }
 }
