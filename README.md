@@ -11,7 +11,7 @@ To run this project locally, follow these steps:
 Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/abida-parveen/io-tech-demo.git
 cd io-tech-demo
 ```
 Install dependencies
